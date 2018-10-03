@@ -1,7 +1,6 @@
-"""
-Usage:
-    hackcmu [--blacklist=<bl>] <sub> <filename>
-"""
+'''
+This is an app to learn new languages through YouTube.
+'''
 
 from PyQt5.QtWidgets import (QWidget, QToolTip, QGridLayout, QHBoxLayout,
                              QPushButton, QApplication, QMessageBox)
